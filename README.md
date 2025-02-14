@@ -9,24 +9,24 @@
 
 ## Course Schedule
 
-- Monday
+- **Monday**
   - [Fundamentals of Computing Logic](https://learn.georgebrown.ca/d2l/le/content/337951/Home) 4pm-6pm
   - [Web Development](https://learn.georgebrown.ca/d2l/le/content/342901/Home) 6pm-8pm
     
-- Tuesday
+- **Tuesday**
   - [Introduction to College Communication](https://learn.georgebrown.ca/d2l/le/content/315768/Home) 12pm-3pm
   - [Data Management](https://learn.georgebrown.ca/d2l/le/content/334969/Home) 4pm-6pm
   - [It Essentials](https://learn.georgebrown.ca/d2l/home/335101) 6pm-8pm
 
-- Wednesday
+- **Wednesday**
   - [It Essentials](https://learn.georgebrown.ca/d2l/home/335101) 9am-11am
   - [Math](https://learn.georgebrown.ca/d2l/le/content/331954/Home) 12pm-2pm
 
-- Thursday
+- **Thursday**
   - [Math](https://learn.georgebrown.ca/d2l/le/content/331954/Home) 10am-12pm
   - [Web Development](https://learn.georgebrown.ca/d2l/le/content/342901/Home) 3pm-5pm
 
-- Friday
+- **Friday**
   - [Fundamentals of Computing Logic](https://learn.georgebrown.ca/d2l/le/content/337951/Home) 10am-12pm
   - [Data Management](https://learn.georgebrown.ca/d2l/le/content/334969/Home)3pm-4pm
   
